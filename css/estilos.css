@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.stroke {
+
+text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;
+
+}
+
+.stroke_blanco{
+text-shadow: -2px -2px 1px #FFF, 2px 2px 1px #FFF, -2px 2px 1px #FFF, 2px -2px 1px #FFF;  
+}
+
+.fondo{
+background-image:url(../img/back.jpg); 
+background-repeat:no-repeat; 
+background-size:cover; 
+background-position:center; 
+background-attachment: fixed;
+}
+
+.blanco{
+
+color:#fff;	
+
+}
+
+.fuente{
+font-family: 'Oswald' , sans-serif ;
+}
+
+.orange{
+	font-family: 'Oswald' , sans-serif ;
+	color:orange;	
+}
+
+.red{
+	font-family: 'Oswald' , sans-serif ;
+	color:red;
+}
+
+.yellow{
+	font-family: 'Oswald' , sans-serif ;
+	color:yellow;
+}
+
+.fuentelogo{
+ 	font-family: 'Architects Daughter' , sans-serif;
+}
